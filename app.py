@@ -4,7 +4,6 @@ import os
 import uuid
 import cv2
 import numpy as np
-
 UPLOAD_DIR = "uploads"
 STYLED_DIR = "styled"
 
